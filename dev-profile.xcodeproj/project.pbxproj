@@ -13,6 +13,7 @@
 		87E6F2B9243195940028A696 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87E6F2B8243195940028A696 /* Assets.xcassets */; };
 		87E6F2BC243195940028A696 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87E6F2BB243195940028A696 /* Preview Assets.xcassets */; };
 		87E6F2BF243195940028A696 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87E6F2BD243195940028A696 /* LaunchScreen.storyboard */; };
+		87E6F2C72431963C0028A696 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87E6F2C62431963C0028A696 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		87E6F2BB243195940028A696 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		87E6F2BE243195940028A696 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		87E6F2C0243195940028A696 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87E6F2C62431963C0028A696 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				87E6F2B2243195930028A696 /* AppDelegate.swift */,
 				87E6F2B4243195930028A696 /* SceneDelegate.swift */,
 				87E6F2B6243195930028A696 /* ContentView.swift */,
+				87E6F2C62431963C0028A696 /* Main.storyboard */,
 				87E6F2B8243195940028A696 /* Assets.xcassets */,
 				87E6F2BD243195940028A696 /* LaunchScreen.storyboard */,
 				87E6F2C0243195940028A696 /* Info.plist */,
@@ -136,6 +139,7 @@
 				87E6F2BF243195940028A696 /* LaunchScreen.storyboard in Resources */,
 				87E6F2BC243195940028A696 /* Preview Assets.xcassets in Resources */,
 				87E6F2B9243195940028A696 /* Assets.xcassets in Resources */,
+				87E6F2C72431963C0028A696 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
